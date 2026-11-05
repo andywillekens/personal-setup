@@ -18,14 +18,17 @@ The Apps, Tools and sources I need and use daily!
 | **AppCleaner** | Removes the crap left over | [https://freemacsoft.net/appcleaner/](https://freemacsoft.net/appcleaner/) |
 | **Stats** | Displays stats in menubar | [https://mac-stats.com/](https://mac-stats.com/) |
 | **MacUSB** | The all-in-one bootable USB creator for Mac | [https://www.macusb.app/](https://www.macusb.app/) |
+| **MacKeyforwarder** | To forward Play button to open spotify | [https://github.com/quentinlesceller/macmediakeyforwarder/](https://github.com/quentinlesceller/macmediakeyforwarder/) |
+| **Amphetamine** | Keep Mac awake | [https://apps.apple.com/us/app/amphetamine/id937984704?mt=12](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) | 
+| **Mole** | Mac Cleaner | [https://mole.fit/](https://mole.fit/) |
+| **BetterDisplayPro** | A better display manager | [https://betterdisplay.pro/nl/](https://betterdisplay.pro/nl/) |
 
 ### Development
 
 | Name | Description | Website |
 | :----------- |:---------------| --------------|
-| **iTerm 2** | Terminal with more functionality | [https://iterm2.com/](https://iterm2.com/) |
+| **Ghostty** | Terminal with more functionality | [https://ghostty.org/](https://ghostty.org/) |
 | **Starship** | Customizable prompt for each shell | [https://starship.rs/](https://starship.rs/) |
-| **nvm** | Node version manager | [https://formulae.brew.sh/formula/nvm](https://formulae.brew.sh/formula/nvm) |
 | **ZED** | Good performant IDE | [https://zed.dev/](https://zed.dev/) |
 | **Bruno** | Nice API tool | [https://www.usebruno.com/](https://www.usebruno.com/) |
 | **Lazydocker** | Lightweight Docker TUI | [https://formulae.brew.sh/formula/lazydocker](https://formulae.brew.sh/formula/lazydocker) |
